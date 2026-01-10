@@ -58,12 +58,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=A1Hameed04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1Hameed04&radius=16&theme=dracula&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
