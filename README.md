@@ -63,12 +63,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/A1Hameed04/A1Hameed04/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:A1Hameed04?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
