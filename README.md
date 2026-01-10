@@ -7,19 +7,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
+  <img height="213" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtmaDI5NHYxbGM0NGNnankwc2h0Y3p2bzBid213emlpZDlhNW82YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
