@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Website developer -- UI Testing</h2>
+<h1 align="center">Website developer -- UI Testing</h1>
 
 ###
 
